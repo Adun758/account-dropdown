@@ -120,40 +120,6 @@
   background-color: gainsboro;
 
 }
-/* .play{ */
-    /* position: relative; */
-/* } */
-/* .number { */
-    /* border: 1px solid red;
-    width: 23px;
-    background-color: red;
-    color: white;
-    padding:  0 12px;
-    position: absolute;
-    top: 0;
-} 
-.eye{
-       position: absolute;
-    right:80px;
-    bottom: 160px;
-    top: -5px; */
-/* } */
-/* .love{ */
-     /* position: absolute;
-    
-    right: 80px;
-        top: 10px; 
-    
-     bottom: 160px !important;
-    
-}
-.star{ */
-    /* position: relative;
-    left:-60px;
-    top:-60px; 
-     font-size:auto; 
-    } */
-
 
 .swiper{
     width: 70%;
@@ -172,7 +138,7 @@
     }    
         .station_container{
            display:flex;
-           /* grid-template-columns: repeat(6,1fr); */
+           
             gap: 50px;
             margin: 0 20px;
             }
@@ -232,7 +198,7 @@
               .phone{
                 border: 1px solid gainsboro;
                 border-radius:7px ;
-                /* padding: 15px; */
+                
                 width: 80px;
                 text-align: center;
                 font-size: 20px;
@@ -280,7 +246,7 @@
                 display: flex;
                 margin: 0 30px;
                 gap: 60px;
-                /* grid-template-columns:repeat(7,1fr); */
+               
                 
               }
               .zline{
@@ -525,12 +491,7 @@
   display: flex;
   flex-wrap: wrap;
 }
- /* .station_container{
-  display:grid;
-    grid-template-columns: repeat(1,1fr);
-   */
-  
-/* }  */
+
  
 } 
 
@@ -550,10 +511,7 @@
    
     margin: 0px 0px !important;
   }
-  /* .station_container{
-    display:grid;
-    grid-template-columns: 2,1fr; */
-  /* } */
+ 
  .swiper{
     width: 100%;
   }
@@ -586,10 +544,7 @@ flex-wrap: wrap !important;
 
 margin: 0px 0px !important;
 }
-/* .station_container{
-display:grid;
-grid-template-columns: 2,1fr; */
-/* } */
+
 .swiper{
 width: 100%;
 }
@@ -608,9 +563,9 @@ flex-wrap: wrap;
 .station_container{
   display:flex;
   flex-wrap: wrap ;
-  /* align-items: center; */
+  
   justify-content: center;
-    /* grid-template-columns:repeat(1,1fr); */
+    
 }
 .all_container{
   display:grid;
